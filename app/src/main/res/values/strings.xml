@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RegistroMisDeportes</string>
+    <string name="title_activity_maps_activitymapa">MapsActivitymapa</string>
+    <string name="botoncontinuar" >CONTINUAR</string>
+    <string name="botonagregar" >AGREGAR</string>
+    <string name="textviewsugerirdeporte" >MENEAME PARA SUGERIR UN DEPORTE</string>
+    <string name="botoninsertar" >INSERTAR</string>
+</resources>
